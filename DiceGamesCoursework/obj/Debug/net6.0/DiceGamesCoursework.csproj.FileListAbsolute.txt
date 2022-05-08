@@ -1,0 +1,15 @@
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\bin\Debug\net6.0\DiceGamesCoursework.exe
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\bin\Debug\net6.0\DiceGamesCoursework.deps.json
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\bin\Debug\net6.0\DiceGamesCoursework.runtimeconfig.json
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\bin\Debug\net6.0\DiceGamesCoursework.dll
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\bin\Debug\net6.0\DiceGamesCoursework.pdb
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\DiceGamesCoursework.csproj.AssemblyReference.cache
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\DiceGamesCoursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\DiceGamesCoursework.AssemblyInfoInputs.cache
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\DiceGamesCoursework.AssemblyInfo.cs
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\DiceGamesCoursework.csproj.CoreCompileInputs.cache
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\DiceGamesCoursework.dll
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\refint\DiceGamesCoursework.dll
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\DiceGamesCoursework.pdb
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\DiceGamesCoursework.genruntimeconfig.cache
+C:\Users\robcr\source\repos\DiceGamesCoursework\DiceGamesCoursework\obj\Debug\net6.0\ref\DiceGamesCoursework.dll
