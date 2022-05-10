@@ -100,7 +100,7 @@ namespace DiceGames
                     PlayerDict[kvp.Key] = new List<int>() { points, kvp.Value[1] };
 
                     //if the win condition has been met, print message to console and break while loop
-                    if (points >= game.WinCondition)
+                    if (points >= game.GetWinCondition())
                     {
                         Console.WriteLine("\nCongratulations to {0} for winning this game in {1} turns\n", kvp.Key, TurnCounter);
                         play = false;
@@ -189,17 +189,17 @@ namespace DiceGames
                     //sets the score threshold for the win condition of the game
                     if (IntChoice == 1)
                     {
-                        game.WinCondition = 20;
+                        game.SetWinCondition(20);
                         break;
                     }
                     else if (IntChoice == 2)
                     {
-                        game.WinCondition = 50;
+                        game.SetWinCondition(50);
                         break;
                     }
                     else if (IntChoice == 3)
                     {
-                        game.WinCondition = 80;
+                        game.SetWinCondition(80);
                         break;
                     }
                     else

@@ -13,7 +13,7 @@
 
     class Game : Die
     {
-        public int WinCondition = 50; //how many points are needed to win the game
+        private int WinCondition = 50; //how many points are needed to win the game
         private Random rnd = new(); //instansiate Random class
 
         //initialise how many sides the dice have
@@ -42,6 +42,17 @@
             }
 
             return results;
+        }
+
+        public int GetWinCondition()
+        {
+            int temp = WinCondition;
+            return temp;
+        }
+
+        public void SetWinCondition(int n)
+        {
+            WinCondition = n;
         }
 
         //method for a single players turn, takes into account player type and returns the players score
